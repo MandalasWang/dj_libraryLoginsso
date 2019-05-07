@@ -1,0 +1,7 @@
+server:
+  port: 8182
+
+ssologin:
+  http://192.168.23.6:8081/djauth/new/
+
+
